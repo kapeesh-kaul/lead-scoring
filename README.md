@@ -15,7 +15,7 @@ X Education has appointed you to help them select the most promising leads, i.e.
 ## Data
 You have been provided with a leads dataset from the past with around 9000 data points. This dataset consists of various attributes such as Lead Source, Total Time Spent on Website, Total Visits, Last Activity, etc. which may or may not be useful in ultimately deciding whether a lead will be converted or not. The target variable, in this case, is the column ‘Converted’ which tells whether a past lead was converted or not wherein 1 means it was converted and 0 means it wasn’t converted. You can learn more about the dataset from the data dictionary provided in the zip folder at the end of the page. Another thing that you also need to check out are the levels present in the categorical variables. Many of the categorical variables have a level called 'Select' which needs to be handled because it is as good as a null value (think why?).
 
-The GitHub repository link should contain the following files along with a README.md file.
+### The GitHub repository link should contain the following files along with a README.md file.
 
 1. Python commented file: Should include detailed comments and should not contain unnecessary pieces of code.
 2. Word File: Answer all the questions asked by the company in the word document provided. Submit the word file after converting it into PDF format.
